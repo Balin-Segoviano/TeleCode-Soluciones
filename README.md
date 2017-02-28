@@ -29,6 +29,8 @@ del código con la resolución de cada equipo.
 
 ## Como contribuir
 
+Los pasos básicos a seguir son:
+
 + Hacer Fork del proyecto y clonar en local.
 + Crear un "upstream" remoto y actualizar la copia local antes de crear una rama.
 + Crear una rama el nuevo contenido.
@@ -36,6 +38,9 @@ del código con la resolución de cada equipo.
 + Crear un nuevo PR en GitHub.
 
 Para información más detallada [aquí](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/)
+
+***Si nunca has usado Git o te resulta muy complicado este método
+[contactanos](http://ieeesb.es/telecode/#contact) para mandarnos el código de respuesta***
 
 Dentro del repo, crear una carpeta con el nombre del equipo dentro
 de la carpeta de cada problema.
